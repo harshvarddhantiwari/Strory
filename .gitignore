@@ -1,0 +1,4 @@
+#this can be used as a comment
+
+# *.txt - means all the files with .txt extension are to be excluded
+secrets.txt
